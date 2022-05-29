@@ -4,7 +4,7 @@
 ## Note:
 I'm not the owner of some of the STLs in this repo. The rightful owners are included in the filenames and these files will be removed in favor of a readme with links to their origin instead.
 ## Bill of Materials 
-|Item||Count|Note|
+|Item|Count|Note|
 |----|-|--|
 |4010 24v blower fans|2|(add Polulu 3796 if you want the fancy 12v deltas)|
 |3010 24v axial fan|1|

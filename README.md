@@ -8,7 +8,7 @@ I'm not the owner of some of the STLs in this repo. The rightful owners are incl
 ## Bill of Materials 
 |Item|Count|Note|
 |----|-|--|
-|4010 24v blower fans|2|Ddd Polulu 3796 if you want the fancy 12v Deltas|
+|4010 24v blower fans|2|Add Polulu 3796 if you want the fancy 12v Deltas|
 |3010 24v axial fan|1|
 |M2x8 or M2x10 self-tapping|9|
 |Rapido|1|

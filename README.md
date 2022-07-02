@@ -2,7 +2,16 @@
 ![image](https://user-images.githubusercontent.com/86749712/170899561-c6480bd5-9b96-462e-881a-725765ba0ca0.png)
 
 ## Description
+Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant started as an attempt to improve parts cooling, spurred on by Derpimus' noted cooling woes on his DOOMCube. After finding that the 5020s were just plain too fat to fit without looking like a standard Ender 3 Thingiverse special, I abandoned the large fan dream in favor of better cooling efficiency and lighter weight. This new and improved dream was also corrupted by my then budding and now all-consuming love for worm gears.
 
+Features:
+ - Lighter weight (285g Sherpa Mini/300g DFA vs Stealthburner's 430g)
+ - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
+ - Improved resonance management compared to Mantis 5015
+ - Support for Sherpa Mini-pattern extruder mounting as well as Annex Engineering's **Double Folded Ascender** worm gear extruder
+ - Nozzle LEDs. They're not the best but they're there.
+ 
+![image](https://cdn.discordapp.com/attachments/895643441193697300/992596124760277013/SPOILER_20220608_165455.jpg)
 ## Note:
 I'm not the owner of some of the STLs in this repo. The rightful owners are included in the filenames and these files will be removed in favor of a readme with links to their origin instead.
 ## Bill of Materials 
@@ -24,10 +33,10 @@ I'm not the owner of some of the STLs in this repo. The rightful owners are incl
 |Nozzle LEDs||
 |M2x8 or M2x10 self-tapping|3|
 |SB nozzle LED kit or 2 of the spec RGB/RGBW LED chips||
-|Toolhead board||
+|**Toolhead board**||
 |HartK board v4 or CAN 36|
 |Heatset|4|
-|Sensorized Mount||
+|**Sensorized Mount**||
 |D2F-5L Microswitch|1|
 |M2x8 or M2x10 self-tapping|2|
 |7mm Steel ball|1|

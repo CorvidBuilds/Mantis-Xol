@@ -22,12 +22,16 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
 ![image](https://cdn.discordapp.com/attachments/895643441193697300/992596124760277013/SPOILER_20220608_165455.jpg)
 ## Note:
 I'm not the owner of some of the STLs in this repo. The rightful owners are included in the filenames and these files will be removed in favor of a readme with links to their origin instead.
+## Build Note:
+This toolhead might require other modifications to retain full functionality of your printer. 
+ - Both test machines used for this mod had Rama's front idlers which have a much lower profile compared to stock Voron front idlers. The fan assemblies might conflict and reduce usable X travel.
+ -
 ## Bill of Materials 
 |Item|Count|Note|
 |----|-|--|
 |4010 24v blower fans|2|Add Polulu 3796 if you want the fancy 12v Deltas|
 |3010 24v axial fan|1|
-|M2x8 or M2x10 self-tapping|9|
+|M2x8 or M2x10 self-tapping|12|
 |Rapido|1|
 |m3x20 SHCS|2|
 |m3x12 BHCS|2|
@@ -39,7 +43,6 @@ I'm not the owner of some of the STLs in this repo. The rightful owners are incl
 |||
 |**Optional**||
 |Nozzle LEDs||
-|M2x8 or M2x10 self-tapping|3|
 |SB nozzle LED kit or 2 of the spec RGB/RGBW LED chips||
 |**Toolhead board**||
 |HartK board v4 or CAN 36|

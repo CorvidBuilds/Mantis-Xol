@@ -15,7 +15,7 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
 #### Future Development (No ETA):
  - Bracing for PCB mounts
  - Rev 2 for ducts since the current version punishes curling too harshly and might be too low for some nozzles
- - Euclid and Quickdraw 2 support
+ - Quickdraw 2 support
  - Update DFA Bottom to latest version for slightly better heatset quality of life
  - Revo support
 

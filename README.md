@@ -9,7 +9,7 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
  - Improved resonance management compared to Mantis 5015
  - Support for Sherpa Mini-pattern extruder mounting as well as Annex Engineering's **Double Folded Ascender** worm gear extruder
- - Support for JosAr's Klicky and VinnyCordeiro and WhoppingPochard's PCB Klicky
+ - Support for JosAr's Klicky, VinnyCordeiro and WhoppingPochard's PCB Klicky, and LukesLab's Euclid
  - Nozzle LEDs. They're not the best but they're there.
  
 #### Future Development (No ETA):

@@ -42,7 +42,7 @@ This toolhead might require other modifications to retain full functionality of 
 |ZIP TIES||
 |||
 |**Optional**||
-|Nozzle LEDs||
+|**Nozzle LEDs**||
 |SB nozzle LED kit or 2 of the spec RGB/RGBW LED chips||
 |**Toolhead board**||
 |HartK board v4 or CAN 36|
@@ -51,6 +51,9 @@ This toolhead might require other modifications to retain full functionality of 
 |D2F-5L Microswitch|1|
 |M2x8 or M2x10 self-tapping|2|
 |7mm Steel ball|1|
+|**With Boots**||
+|M2x20 SHCS|2|
+|M2 Heatset Insert|2|
 ## Changelog
 ### 3 Aug 2022 - Xol with Boots
 - Added MGN9H carriages for PCB Klicky

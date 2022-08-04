@@ -42,7 +42,7 @@ This toolhead might require other modifications to retain full functionality of 
 |ZIP TIES||
 |||
 |**Optional**||
-|Nozzle LEDs||
+|**Nozzle LEDs**||
 |SB nozzle LED kit or 2 of the spec RGB/RGBW LED chips||
 |**Toolhead board**||
 |HartK board v4 or CAN 36|
@@ -51,6 +51,15 @@ This toolhead might require other modifications to retain full functionality of 
 |D2F-5L Microswitch|1|
 |M2x8 or M2x10 self-tapping|2|
 |7mm Steel ball|1|
+|**With Boots**||
+|M2x20 SHCS|2|
+|M2 Heatset Insert|2|
+## Changelog
+### 3 Aug 2022 - Xol with Boots
+- Added MGN9H carriages for PCB Klicky
+- Added additional stabilization for ducts. Ideally, these are fastened with 2x M2x20 and M2 heatset inserts.
+![image](https://user-images.githubusercontent.com/86749712/182743176-836717be-50c4-4e77-87a8-01fd74bdcb33.png)
+
 ## Acknowledgement
 [Long/Mandryd](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) for the Mantis toolhead.<br/>
 [TheWarolf](https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead) for the ERCF sensorized Hotend Mount.<br/>

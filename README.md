@@ -65,7 +65,7 @@ This toolhead might require other modifications to retain full functionality of 
 ## Changelog
 ### ?? September 2022 - Xol 2
 - Improved aesthetics
-- Downsized HE fan to 2520
+- Downsized HE fan to 2510
 - No more self-tapping screws
 - Added front brace for Sherpa Mini
 ### 3 Aug 2022 - Xol with Boots

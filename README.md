@@ -5,7 +5,7 @@
 Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant started as an attempt to improve parts cooling, spurred on by Derpimus' noted cooling woes on his DOOMCube. After finding that the 5020s were just plain too fat to fit without looking like a standard Ender 3 Thingiverse special, I abandoned the large fan dream in favor of better cooling efficiency and lighter weight. This new and improved dream was also corrupted by my then budding and now all-consuming love for worm gears.
 
 ## Coming Soon: Xol 2
-![image](images/Xol2Preview.png)
+![image](Images/Xol2Preview.png)
  - Cooler: Still a little ugly but better
  - Lighter: 260g-ish for Sherpa Mini
  - Rigid-er: I want to throw this thing across the room

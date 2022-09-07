@@ -4,6 +4,14 @@
 ## Description
 Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant started as an attempt to improve parts cooling, spurred on by Derpimus' noted cooling woes on his DOOMCube. After finding that the 5020s were just plain too fat to fit without looking like a standard Ender 3 Thingiverse special, I abandoned the large fan dream in favor of better cooling efficiency and lighter weight. This new and improved dream was also corrupted by my then budding and now all-consuming love for worm gears.
 
+## Coming Soon: Xol 2
+![image](images/Xol2Preview.png)
+ - Cooler: Still a little ugly but better
+ - Lighter: 260g-ish for Sherpa Mini
+ - Rigid-er: I want to throw this thing across the room
+ - *a second supported hotend*
+ - also every feature below
+ 
 #### Features:
  - Lighter weight (285g Sherpa Mini/300g DFA vs Stealthburner's 430g)
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
@@ -55,6 +63,11 @@ This toolhead might require other modifications to retain full functionality of 
 |M2x20 SHCS|2|
 |M2 Heatset Insert|2|https://www.amazon.com/gp/product/B08ZN4PS65|
 ## Changelog
+### ?? September 2022 - Xol 2
+- Improved aesthetics
+- Downsized HE fan to 2520
+- No more self-tapping screws
+- Added front brace for Sherpa Mini
 ### 3 Aug 2022 - Xol with Boots
 - Added MGN9H carriages for PCB Klicky
 - Added additional stabilization for ducts. Ideally, these are fastened with 2x M2x20 and M2 heatset inserts.

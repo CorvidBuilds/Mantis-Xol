@@ -24,7 +24,6 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Revo support
  - Port nozzle LEDs to Xol 2
 
-![image](https://cdn.discordapp.com/attachments/895643441193697300/992596124760277013/SPOILER_20220608_165455.jpg)
 ## Note:
 I'm not the owner of some of the STLs in this repo. The rightful owners are included in the filenames and these files will be removed in favor of a readme with links to their origin instead.
 ## Build Notes:

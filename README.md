@@ -8,8 +8,8 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Cooler: Still a little ugly but better
  - Lighter: 260g-ish for Sherpa Mini
  - Rigid-er: I want to throw this thing across the room
- - DropEffect × Phaetus XG support
- 
+ - DropEffect × Phaetus XG support 
+
 #### Features:
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
  - Improved resonance management compared to Mantis 5015
@@ -24,8 +24,6 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Revo support
  - Port nozzle LEDs to Xol 2
 
-## Note:
-I'm not the owner of some of the STLs in this repo. The rightful owners are included in the filenames and these files will be removed in favor of a readme with links to their origin instead.
 ## Build Notes:
 This toolhead might require other modifications to retain full functionality of your printer. 
  - All test machines used for this mod had Rama's front idlers which have a much lower profile compared to stock Voron front idlers. The fan assemblies might conflict and reduce usable X travel.
@@ -45,6 +43,8 @@ This toolhead might require other modifications to retain full functionality of 
 |m3x20 SHCS|2|
 |M2 Heatset|11|
 |M3 Heatset|10|
+|D2F-5L Microswitch|1|
+|M2x8 or M2x10 Self-Tapping|1|Optionally 1 more M2 heatset and an M2x8 SHCS|
 |6x3 magnets|3|
 |ZIP TIES||
 ## Changelog
@@ -54,6 +54,7 @@ This toolhead might require other modifications to retain full functionality of 
 - No more self-tapping screws
 - Added front brace for Sherpa Mini
 - New ducts for Tridents with lead screws
+- Miscellaneous printability improvements
 ### 3 Aug 2022 - Xol with Boots
 - Added MGN9H carriages for PCB Klicky
 - Added additional stabilization for ducts. Ideally, these are fastened with 2x M2x20 and M2 heatset inserts.

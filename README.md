@@ -23,6 +23,7 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Update DFA Bottom to latest version for slightly better heatset quality of life
  - Revo support
  - Port nozzle LEDs to Xol 2
+ - Port MMU sensor support to Xol 2
 
 ## Build Notes:
 This toolhead might require other modifications to retain full functionality of your printer. 

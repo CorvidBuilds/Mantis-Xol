@@ -64,7 +64,7 @@ This toolhead might require other modifications to retain full functionality of 
 ## Acknowledgement
 [Long/Mandryd](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) for the Mantis toolhead.<br/>
 [TheWarolf](https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead) for the ERCF sensorized Hotend Mount.<br/>
-[Derpimus](https://github.com/lraithel15133) for the exegesis, some CAD work, and feedback.<br/>
+[Derpimus](https://github.com/lraithel15133) for the exegesis, some CAD work, feedback, and just being a rad dude.<br/>
 [KayosMaker](https://github.com/KayosMaker) for the MGN12 Klicky X-Carriage and CAN board mounts and spacers.<br/>
 [JosAr](https://github.com/jlas1/Klicky-Probe) for Klicky.<br/>
 [WhoppingPochard](https://github.com/tanaes) and [VinnyCordeiro](https://github.com/VinnyCordeiro/) for PCB Klicky.<br/>

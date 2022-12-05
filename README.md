@@ -9,6 +9,8 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Lighter: 260g-ish for Sherpa Mini
  - Rigid-er: I want to throw this thing across the room
  - DropEffect × Phaetus XG support 
+ - Revo Voron Support
+ - Support for MattTheBaker's Beacon and VoronDesign's Tap
 
 #### Features:
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
@@ -22,6 +24,7 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Update DFA Bottom to latest version for slightly better heatset quality of life
  - Port nozzle LEDs to Xol 2
  - Port MMU sensor support to Xol 2
+ - Confirm fitment for MattTheBaker's Beacon
 
 ## Build Notes:
 This toolhead might require other modifications to retain full functionality of your printer. 

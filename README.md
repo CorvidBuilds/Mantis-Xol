@@ -43,8 +43,8 @@ This toolhead might require other modifications to retain full functionality of 
 |m3x6 BHCS|7|
 |m3x8 BHCS|7|
 |m3x20 SHCS|2|
-|M2 Heatset|11|
-|M3 Heatset|10|
+|M2 Heatset 4L x 3.5 OD|11|
+|M3 Heatset "Standard"|10|
 |D2F-5L Microswitch|1|
 |M2x8 or M2x10 Self-Tapping|1|Optionally 1 more M2 heatset and an M2x8 SHCS|
 |6x3 magnets|3|

@@ -9,6 +9,8 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  - Lighter: 260g-ish for Sherpa Mini
  - Rigid-er: I want to throw this thing across the room
  - DropEffect × Phaetus XG support 
+ - Revo Voron Support
+ - Support for MattTheBaker's Beacon and VoronDesign's Tap
 
 #### Features:
  - Better airflow than Stealthburner (6-7 CFM through short ducts vs 4.6-5.2 CFM through long ducts)
@@ -18,12 +20,11 @@ Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant
  
 #### Future Development (No ETA):
  - Bracing for PCB mounts
- - Rev 2 for ducts since the current version punishes curling too harshly and might be too low for some nozzles
  - Quickdraw 2 support
  - Update DFA Bottom to latest version for slightly better heatset quality of life
- - Revo support
  - Port nozzle LEDs to Xol 2
  - Port MMU sensor support to Xol 2
+ - Confirm fitment for MattTheBaker's Beacon
 
 ## Build Notes:
 This toolhead might require other modifications to retain full functionality of your printer. 
@@ -38,17 +39,26 @@ This toolhead might require other modifications to retain full functionality of 
 |M2x8 SHCS|2|
 |M2x12 SHCS|4|
 |M2x20 SHCS|2|
-|M2.5x20 SHCS|2|
+|M2.5x20 SHCS|4|
 |m3x6 BHCS|7|
 |m3x8 BHCS|7|
 |m3x20 SHCS|2|
-|M2 Heatset|11|
-|M3 Heatset|10|
+|M2 Heatset 4L x 3.5 OD|11|
+|M3 Heatset "Standard"|10|
 |D2F-5L Microswitch|1|
 |M2x8 or M2x10 Self-Tapping|1|Optionally 1 more M2 heatset and an M2x8 SHCS|
 |6x3 magnets|3|
 |ZIP TIES||
 ## Changelog
+### 29 November 2022 - Beacon Support
+- Release Day means Beacon Support. Find it in the Experimental folder.
+### 27 November 2022 - Tap Support
+- Release Day means Tap Support. Find it in the Experimental folder.
+### 22 November 2022 -Revo Voron
+- Added support for Revo Voron with the Sherpa Mini Hotend mount
+### 10 November 2022 - Shiny shiny
+- Added nozzle LED support. Find it in the Experimental folder.
+### 23 October 2022
 ### 3 October 2022 - Xol 2
 - Improved aesthetics
 - Downsized HE fan to 2510

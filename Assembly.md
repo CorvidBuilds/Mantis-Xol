@@ -12,6 +12,6 @@
 | Fasten the *Faceplate* and *2510 Hotend Fan* to the *Hotend Mount* with M2.5x20 screws as indicated. For XG, there will only be 2. Ensure that the *Hotend Fan* wiring exits toward the left as indicated. |   ![Front Plate Assembly](/Images/Assembly/frontplateassembly.png "Front Plate Assembly") |
 | Fasten the *4010 Parts Cooling Fans* to the *Hotend Mount* as indicated using M2x8 in the rear and M2x12 in the front.  |   ![Top Blower Screws](/Images/Assembly/topblowerscrews.png "Top Blower Screws")  |
 | Fasten the *4010 Parts Cooling Fans* and attach *Ducts* as indicated using M2x20 in the rear and M2x12 in the front.  |   ![Bottom Blower Screws and Duct Install](/Images/Assembly/ductinstall.png "Bottom Blower Screws and Duct Install")  |
-| Attach your selected *Extruder* with corresponding PTFE.  | This iamge space left intentionally blank.  |
+| Attach your selected *Extruder* with corresponding PTFE.  | This image space left intentionally blank.  |
 | Secure your wiring with zipties.  | This image space left intentionally blank.  |
 | You're done! Congratulations!  |  ![45 Degree Preview](/Images/Assembly/45degreeview1.png "45 Degree Preview") |

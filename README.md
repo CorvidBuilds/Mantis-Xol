@@ -1,5 +1,3 @@
-# Hey! You should be looking at the [Armchair Engineering fork](https://github.com/Armchair-Engineering/Mantis-Xol) for the most up-to-date version!
-
 # Mantis Xol 2
 ![image](https://cdn.discordapp.com/attachments/929168771216723968/1020895467674026024/unknown.png)
 

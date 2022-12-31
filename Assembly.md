@@ -14,4 +14,4 @@
 | Fasten the *4010 Parts Cooling Fans* and attach *Ducts* as indicated using M2x20 in the rear and M2x12 in the front.  |   ![Bottom Blower Screws and Duct Install](/Images/Assembly/ductinstall.png "Bottom Blower Screws and Duct Install")  |
 | Attach your selected *Extruder* with corresponding PTFE.  | This iamge space left intentionally blank.  |
 | Secure your wiring with zipties.  | This image space left intentionally blank.  |
-| You're done! Congratulations!  |  ![45 Degree Preview](/Images/Assembly/45degreepreview1.png "45 Degree Preview") |
+| You're done! Congratulations!  |  ![45 Degree Preview](/Images/Assembly/45degreeview1.png "45 Degree Preview") |

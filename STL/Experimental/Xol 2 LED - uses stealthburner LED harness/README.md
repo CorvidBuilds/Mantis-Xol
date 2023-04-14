@@ -1,6 +1,6 @@
 # LED mounts for Xol 2 using standard LED harness from Stealthburner
 
-![render](./images/render.png)
+![render](images/render.png)
 
 This mod uses the stock LED harness from Voron Stealthburner to add status and nozzle lights to Xol 2.
 

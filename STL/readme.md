@@ -2,13 +2,13 @@
 
 Ducts A and B
 
-Hotend mount that matches your hotend
+Hotend mount of your choice
 
 Faceplate A and B
 
-Carriage that matches your hotend and probe
+Carriage that matches your hotend and probe of choice
 
-
+Extruder of your choice
 
 
 # FAQ:

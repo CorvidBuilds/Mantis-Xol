@@ -1,4 +1,4 @@
-#Each basic Xol2 configuration consists of:
+# Each basic Xol2 configuration consists of:
 
 Ducts A and B
 
@@ -11,7 +11,7 @@ Carriage that matches your hotend and probe
 
 
 
-#FAQ:
+# FAQ:
 
 Tap Version uses normal Voron tap, no modifications.
 Beacon uses Normal style Beacon

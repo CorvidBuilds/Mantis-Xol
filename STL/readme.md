@@ -14,5 +14,7 @@ Carriage that matches your hotend and probe
 # FAQ:
 
 Tap Version uses normal Voron tap, no modifications.
+
 Beacon uses Normal style Beacon
+
 HS endstop = Heatset endstop (instead of self tapper)
